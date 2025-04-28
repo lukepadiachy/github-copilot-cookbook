@@ -120,12 +120,6 @@ You're welcome to contribute!
 **Star** this repository to keep track of new additions!  
 We'll regularly add more guides, examples, and helpful resources as GitHub Copilot evolves.
 
-
-## Final Notes
-
-This project is about making learning GitHub Copilot **simple**, **structured** and **fun**, without all the extra noise.  
-Whether you're coding your first app or exploring new workflows, **GitHub Copilot Cookbook** is here to guide you step-by-step.
-
 ## Support This Project
 
 If you found this cookbook helpful, please consider sharing it with others:
