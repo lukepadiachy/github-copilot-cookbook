@@ -1,6 +1,6 @@
 # GitHub Copilot Cookbook
 
-![Github Copilot Header(https://www.figma.com/design/d8KvAoZZehvHdbuOWQKbML/2025-Brand-Guidelines?node-id=2-77501&t=o4pD6ZpBHL59sGes-11)](assets\github-copilot-header.png)
+![github-copilot-header](assets/github-copilot-header.png)
 
 ![Tip Badge](https://img.shields.io/badge/Tip-All%20info%20is%20available%20on%20the%20internet!-purple)
 
@@ -123,7 +123,7 @@ We'll regularly add more guides, examples, and helpful resources as GitHub Copil
 
 ## Final Notes
 
-This project is about making learning GitHub Copilot **simple**, **structured**, and **fun** — without all the extra noise.  
+This project is about making learning GitHub Copilot **simple**, **structured** and **fun**, without all the extra noise.  
 Whether you're coding your first app or exploring new workflows, **GitHub Copilot Cookbook** is here to guide you step-by-step.
 
 ## Support This Project
