@@ -125,3 +125,12 @@ We'll regularly add more guides, examples, and helpful resources as GitHub Copil
 
 This project is about making learning GitHub Copilot **simple**, **structured**, and **fun** — without all the extra noise.  
 Whether you're coding your first app or exploring new workflows, **GitHub Copilot Cookbook** is here to guide you step-by-step.
+
+## Support This Project
+
+If you found this cookbook helpful, please consider sharing it with others:
+
+[![LinkedIn](https://img.shields.io/badge/Share-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/shareArticle?title=GitHub%20Copilot%20Cookbook&url=https://github.com/lukepadiachy/github-copilot-cookbook)
+[![X](https://img.shields.io/badge/Share-X-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/intent/tweet?text=Check%20out%20this%20GitHub%20Copilot%20Cookbook!%20https://github.com/lukepadiachy/github-copilot-cookbook)
+[![Facebook](https://img.shields.io/badge/Share-Facebook-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/sharer/sharer.php?u=https://github.com/lukepadiachy/github-copilot-cookbook)
+[![WhatsApp](https://img.shields.io/badge/Share-WhatsApp-25D366?style=for-the-badge&logo=whatsapp)](https://api.whatsapp.com/send?text=Check%20out%20this%20GitHub%20Copilot%20Cookbook!%20https://github.com/lukepadiachy/github-copilot-cookbook)
