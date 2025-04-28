@@ -123,5 +123,5 @@ We'll regularly add more guides, examples, and helpful resources as GitHub Copil
 
 ## Final Notes
 
-This project is about making learning GitHub Copilot **simple**, **structured**, and **fun** — without all the extra noise.  
+This project is about making learning GitHub Copilot **simple**, **structured** and **fun**, without all the extra noise.  
 Whether you're coding your first app or exploring new workflows, **GitHub Copilot Cookbook** is here to guide you step-by-step.
